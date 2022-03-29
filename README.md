@@ -1,6 +1,6 @@
 ## 행시를 지어보자
 
-> Pull Request 실습
+> Pull Request 실습!
 
 
 
